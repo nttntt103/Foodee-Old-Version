@@ -48,7 +48,7 @@ const FoodDetails = () => {
   const submitHandler = (e) => {e.preventDefault()}
 
   return (
-    <Helmet title="Product-details">
+    <Helmet title="Product Details">
       <CommonSection title={title} />
 
       <section>
